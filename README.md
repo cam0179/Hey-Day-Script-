@@ -1,11 +1,2 @@
-# Hey-Day-Script
-#! /bin/bash
-
-#prompt user to enter thier name 
-echo "enter your name please"
-
-#assigning name as a variable 
-read name 
-
-#print statment to user 
-echo "Hey $name !"
+# Hey-Day-Script 
+[Hey_script.txt](https://github.com/cam0179/Hey-Day-Script-/files/9739775/Hey_script.txt)
